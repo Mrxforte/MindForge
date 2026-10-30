@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MindForge</string>
+    <string name="app_tagline">Sharpen Your Mind, Level Up Your Life</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_workout">Workout</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- General Actions -->
+    <string name="action_start">Start</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_next_level">Next Level</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_restart">Restart</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_back">Back</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_save">Save</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_search">Search games...</string>
+    <string name="action_all">All</string>
+
+    <!-- Dashboard & Stats -->
+    <string name="dashboard_welcome">Welcome back!</string>
+    <string name="daily_workout_title">Daily Mind Workout</string>
+    <string name="daily_workout_subtitle">4 quick challenges to boost your brain</string>
+    <string name="streak_days">%1$d Day Streak</string>
+    <string name="total_xp">%1$d XP</string>
+    <string name="level_label">Level %1$d</string>
+    <string name="completed_sessions">Sessions: %1$d</string>
+    <string name="accuracy_stat">Accuracy: %1$d%%</string>
+    <string name="avg_reaction_stat">Reaction: %1$d ms</string>
+    <string name="today_completed">Today\'s workout completed!</string>
+    <string name="start_daily_workout">Start Daily Workout</string>
+    <string name="recommended_challenge">Recommended for You</string>
+    <string name="cognitive_radar">Cognitive Skills</string>
+
+    <!-- Categories -->
+    <string name="cat_math">Mathematics</string>
+    <string name="cat_memory">Memory</string>
+    <string name="cat_logic">Logic</string>
+    <string name="cat_attention">Attention</string>
+    <string name="cat_reaction">Speed &amp; Reaction</string>
+    <string name="cat_spatial">Spatial Reasoning</string>
+
+    <!-- Results -->
+    <string name="result_victory">Challenge Complete!</string>
+    <string name="result_game_over">Time\'s Up</string>
+    <string name="result_score">Score: %1$d</string>
+    <string name="result_accuracy">Accuracy: %1$d%%</string>
+    <string name="result_time">Time: %1$s</string>
+    <string name="result_best_score">Personal Best!</string>
+    <string name="result_xp_earned">+%1$d XP Earned</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Forge Your Mind</string>
+    <string name="onboarding_desc_1">Scientific cognitive games designed to exercise memory, speed, logic, and mathematics.</string>
+    <string name="onboarding_title_2">1,000+ Progressive Levels</string>
+    <string name="onboarding_desc_2">From gentle beginner challenges to grandmaster puzzles that adapt to your performance.</string>
+    <string name="onboarding_title_3">Completely Offline &amp; Free</string>
+    <string name="onboarding_desc_3">Zero ads, zero subscriptions, fully private. Your personal records stay on your device.</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_skip">Skip</string>
+
+    <!-- Settings -->
+    <string name="settings_theme">Appearance</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_theme_dark">Dark Mode</string>
+    <string name="settings_theme_light">Light Mode</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_sound">Sound Effects</string>
+    <string name="settings_haptics">Haptic Vibration</string>
+    <string name="settings_data_management">Data &amp; Privacy</string>
+    <string name="settings_reset_progress">Reset All Progress</string>
+    <string name="settings_reset_confirm">Are you sure? All scores, levels, and statistics will be wiped.</string>
+    <string name="settings_about">About MindForge</string>
+    <string name="settings_version">Version 1.0.0 (Ad-Free, 1000+ Levels)</string>
+</resources>

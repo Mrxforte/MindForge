@@ -1,0 +1,6 @@
+{
+  "name": "MindForge",
+  "description": "Professional native Android brain training app with 1,000+ levels across 20+ cognitive game modes, adaptive difficulty, and rich analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

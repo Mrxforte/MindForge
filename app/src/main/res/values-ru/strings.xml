@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MindForge</string>
+    <string name="app_tagline">Развивайте мозг, тренируйтесь каждый день</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_games">Игры</string>
+    <string name="nav_workout">Тренировка</string>
+    <string name="nav_stats">Статистика</string>
+    <string name="nav_settings">Настройки</string>
+
+    <!-- General Actions -->
+    <string name="action_start">Начать</string>
+    <string name="action_continue">Продолжить</string>
+    <string name="action_retry">Повторить</string>
+    <string name="action_next_level">Следующий уровень</string>
+    <string name="action_finish">Завершить</string>
+    <string name="action_pause">Пауза</string>
+    <string name="action_resume">Продолжить</string>
+    <string name="action_restart">Заново</string>
+    <string name="action_exit">Выход</string>
+    <string name="action_back">Назад</string>
+    <string name="action_apply">Применить</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_reset">Сбросить</string>
+    <string name="action_search">Поиск игр...</string>
+    <string name="action_all">Все</string>
+
+    <!-- Dashboard & Stats -->
+    <string name="dashboard_welcome">С возвращением!</string>
+    <string name="daily_workout_title">Ежедневная тренировка</string>
+    <string name="daily_workout_subtitle">4 быстрых упражнения для тонуса мозга</string>
+    <string name="streak_days">Серия: %1$d дн.</string>
+    <string name="total_xp">%1$d XP</string>
+    <string name="level_label">Уровень %1$d</string>
+    <string name="completed_sessions">Сессий: %1$d</string>
+    <string name="accuracy_stat">Точность: %1$d%%</string>
+    <string name="avg_reaction_stat">Реакция: %1$d мс</string>
+    <string name="today_completed">Сегодняшняя тренировка пройдена!</string>
+    <string name="start_daily_workout">Начать тренировку</string>
+    <string name="recommended_challenge">Рекомендовано для вас</string>
+    <string name="cognitive_radar">Когнитивные навыки</string>
+
+    <!-- Categories -->
+    <string name="cat_math">Математика</string>
+    <string name="cat_memory">Память</string>
+    <string name="cat_logic">Логика</string>
+    <string name="cat_attention">Внимание</string>
+    <string name="cat_reaction">Скорость и реакция</string>
+    <string name="cat_spatial">Пространственное мышление</string>
+
+    <!-- Results -->
+    <string name="result_victory">Уровень пройден!</string>
+    <string name="result_game_over">Время вышло</string>
+    <string name="result_score">Счет: %1$d</string>
+    <string name="result_accuracy">Точность: %1$d%%</string>
+    <string name="result_time">Время: %1$s</string>
+    <string name="result_best_score">Личный рекорд!</string>
+    <string name="result_xp_earned">+%1$d XP получено</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Прокачайте свой мозг</string>
+    <string name="onboarding_desc_1">Когнитивные тренировки для развития памяти, скорости, логики и вычислений.</string>
+    <string name="onboarding_title_2">Более 1000 уровней</string>
+    <string name="onboarding_desc_2">От простых разминок до сложнейших задач с адаптивной сложностью под ваш темп.</string>
+    <string name="onboarding_title_3">Полностью бесплатно и оффлайн</string>
+    <string name="onboarding_desc_3">Без рекламы, без подписок, полностью конфиденциально на вашем устройстве.</string>
+    <string name="onboarding_get_started">Приступить</string>
+    <string name="onboarding_skip">Пропустить</string>
+
+    <!-- Settings -->
+    <string name="settings_theme">Оформление</string>
+    <string name="settings_theme_system">Системная</string>
+    <string name="settings_theme_dark">Темная тема</string>
+    <string name="settings_theme_light">Светлая тема</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_sound">Звуковые эффекты</string>
+    <string name="settings_haptics">Вибрация (Тактильный отклик)</string>
+    <string name="settings_data_management">Данные и конфиденциальность</string>
+    <string name="settings_reset_progress">Сбросить весь прогресс</string>
+    <string name="settings_reset_confirm">Вы уверены? Все рекорды, уровни и статистика будут удалены.</string>
+    <string name="settings_about">О приложении MindForge</string>
+    <string name="settings_version">Версия 1.0.0 (Без рекламы, 1000+ уровней)</string>
+</resources>
